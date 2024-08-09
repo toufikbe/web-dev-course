@@ -10,3 +10,8 @@ body {
   margin-left: auto;
   padding-left: 15px;
 }
+
+.head{
+  height: 60px;
+  display: flex;
+}
