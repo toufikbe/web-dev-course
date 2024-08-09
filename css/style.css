@@ -4,3 +4,9 @@
 body {
   font-size: 15px;
 }
+.container{
+  margin-right: auto;
+  padding-right: 15px;
+  margin-left: auto;
+  padding-left: 15px;
+}
